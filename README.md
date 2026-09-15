@@ -67,17 +67,16 @@
 
 ---
 
-### `$ ./run --contribution-graph`
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sreeram0242-bot/sreeram0242-bot/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚠️ Note: the snake animation needs a one-time GitHub Action setup — instructions below.
 
 ---
 
-### `$ echo $CONNECT`
+### 'Linked In'
 
 <p align="center">
   <a href="https://in.linkedin.com/in/sreee-ram" target="_blank">
