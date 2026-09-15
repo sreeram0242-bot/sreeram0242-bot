@@ -75,71 +75,59 @@
 
 ### `My Projects`
 
-<details>
-<summary><b>🏋️ GymFlow — Gym Management Dashboard</b></summary>
-<br>
-<p align="center">
-  <img src="assets/gymflow.png" width="280" alt="GymFlow project" />
-</p>
+<table>
+<tr>
 
-**Tech stack:** _(add yours here, e.g. React, Node.js, MongoDB)_
+<td align="center" width="280">
+<b><a href="https://github.com/sreeram0242-bot/Gym-Software">🏋️ GymFlow</a></b><br>
+<sub>Gym Management Dashboard</sub><br><br>
+<img src="assets/gymflow.png" width="260" alt="GymFlow project" /><br><br>
+<b>Tech stack:</b><br>
+<sub>Next.js · TypeScript · Prisma · Tailwind CSS</sub>
+</td>
 
-</details>
+<td align="center" width="280">
+<b><a href="https://github.com/sreeram0242-bot/royal-spice">🍽️ RK Mess</a></b><br>
+<sub>Restaurant Admin Panel</sub><br><br>
+<img src="assets/rk-mess.png" width="260" alt="RK Mess project" /><br><br>
+<b>Tech stack:</b><br>
+<sub>Node.js · Express · JavaScript · HTML/CSS</sub>
+</td>
 
-<details>
-<summary><b>🍽️ RK Mess — Restaurant Admin Panel</b></summary>
-<br>
-<p align="center">
-  <img src="assets/rk-mess.png" width="280" alt="RK Mess project" />
-</p>
+<td align="center" width="280">
+<b><a href="https://github.com/sreeram0242-bot/offermonitor-IDE">🥪 Engineers Kitchen</a></b><br>
+<sub>Billing & Order App</sub><br><br>
+<img src="assets/engineers-kitchen.png" width="260" alt="Engineers Kitchen project" /><br><br>
+<b>Tech stack:</b><br>
+<sub>React · TypeScript · Vite · Capacitor · Electron</sub>
+</td>
 
-**Tech stack:** _(add yours here)_
+<td align="center" width="280">
+<b><a href="https://github.com/sreeram0242-bot/Royal-Carwash">🚗 Royal Car Wash</a></b><br>
+<sub>Service Booking Site</sub><br><br>
+<img src="assets/royal-carwash.png" width="260" alt="Royal Car Wash project" /><br><br>
+<b>Tech stack:</b><br>
+<sub>Vite · JavaScript · Node.js · Vercel</sub>
+</td>
 
-</details>
+<td align="center" width="280">
+<b>☕ Cafe Bistro</b><br>
+<sub>POS System</sub><br><br>
+<img src="assets/cafe-bistro.png" width="260" alt="Cafe Bistro project" /><br><br>
+<b>Tech stack:</b><br>
+<sub>React · Node.js · MongoDB</sub>
+</td>
 
-<details>
-<summary><b>🥪 Engineers Kitchen — Billing & Order App</b></summary>
-<br>
-<p align="center">
-  <img src="assets/engineers-kitchen.png" width="280" alt="Engineers Kitchen project" />
-</p>
+<td align="center" width="280">
+<b><a href="https://github.com/sreeram0242-bot/HappyEvents">🎉 Happy Events</a></b><br>
+<sub>Event Planning Website</sub><br><br>
+<img src="assets/happy-events.png" width="260" alt="Happy Events project" /><br><br>
+<b>Tech stack:</b><br>
+<sub>React · TypeScript · Vite · shadcn/ui</sub>
+</td>
 
-**Tech stack:** _(add yours here)_
-
-</details>
-
-<details>
-<summary><b>🚗 Royal Car Wash — Service Booking Site</b></summary>
-<br>
-<p align="center">
-  <img src="assets/royal-carwash.png" width="280" alt="Royal Car Wash project" />
-</p>
-
-**Tech stack:** _(add yours here)_
-
-</details>
-
-<details>
-<summary><b>☕ Cafe Bistro — POS System</b></summary>
-<br>
-<p align="center">
-  <img src="assets/cafe-bistro.png" width="280" alt="Cafe Bistro project" />
-</p>
-
-**Tech stack:** _(add yours here)_
-
-</details>
-
-<details>
-<summary><b>🎉 Happy Events — Event Planning Website</b></summary>
-<br>
-<p align="center">
-  <img src="assets/happy-events.png" width="280" alt="Happy Events project" />
-</p>
-
-**Tech stack:** _(add yours here)_
-
-</details>
+</tr>
+</table>
 
 ---
 
