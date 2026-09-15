@@ -73,6 +73,76 @@
 
 ---
 
+### `My Projects`
+
+<details>
+<summary><b>🏋️ GymFlow — Gym Management Dashboard</b></summary>
+<br>
+<p align="center">
+  <img src="assets/gymflow.png" width="280" alt="GymFlow project" />
+</p>
+
+**Tech stack:** _(add yours here, e.g. React, Node.js, MongoDB)_
+
+</details>
+
+<details>
+<summary><b>🍽️ RK Mess — Restaurant Admin Panel</b></summary>
+<br>
+<p align="center">
+  <img src="assets/rk-mess.png" width="280" alt="RK Mess project" />
+</p>
+
+**Tech stack:** _(add yours here)_
+
+</details>
+
+<details>
+<summary><b>🥪 Engineers Kitchen — Billing & Order App</b></summary>
+<br>
+<p align="center">
+  <img src="assets/engineers-kitchen.png" width="280" alt="Engineers Kitchen project" />
+</p>
+
+**Tech stack:** _(add yours here)_
+
+</details>
+
+<details>
+<summary><b>🚗 Royal Car Wash — Service Booking Site</b></summary>
+<br>
+<p align="center">
+  <img src="assets/royal-carwash.png" width="280" alt="Royal Car Wash project" />
+</p>
+
+**Tech stack:** _(add yours here)_
+
+</details>
+
+<details>
+<summary><b>☕ Cafe Bistro — POS System</b></summary>
+<br>
+<p align="center">
+  <img src="assets/cafe-bistro.png" width="280" alt="Cafe Bistro project" />
+</p>
+
+**Tech stack:** _(add yours here)_
+
+</details>
+
+<details>
+<summary><b>🎉 Happy Events — Event Planning Website</b></summary>
+<br>
+<p align="center">
+  <img src="assets/happy-events.png" width="280" alt="Happy Events project" />
+</p>
+
+**Tech stack:** _(add yours here)_
+
+</details>
+
+---
+
 ### 'Linked In'
 
 <p align="center">
