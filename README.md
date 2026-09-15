@@ -57,22 +57,19 @@
 ### `$ cat github-stats.log`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sreeram0242-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram0242-bot&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sreeram0242-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=2d2d2d" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram0242-bot&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=2d2d2d" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeram0242-bot&theme=highcontrast&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeram0242-bot&theme=highcontrast&hide_border=true&background=2d2d2d" />
 </p>
 
 ---
 
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sreeram0242-bot/sreeram0242-bot/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 
 ---
 
@@ -80,7 +77,7 @@
 
 <p align="center">
   <a href="https://in.linkedin.com/in/sreee-ram" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Connect-black?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lets_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
