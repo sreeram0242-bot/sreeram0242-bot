@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:00FFFF,100:0077FF&height=220&section=header&text=Hi%20there,%20I'm%20Sreeram&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20React&descAlignY=58&descSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:0047AB,100:000033&height=220&section=header&text=HI%20THERE,%20I'M%20SREERAM&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20PYTHON%20%7C%20REACT&descAlignY=58&descSize=18" alt="header banner" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&lines=Compiling+ideas+into+code...;Java+%7C+Python+%7C+React+%7C+JS;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=22&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&lines=COMPILING+IDEAS+INTO+CODE...;JAVA+%7C+PYTHON+%7C+REACT+%7C+JS;ALWAYS+LEARNING%2C+ALWAYS+BUILDING." alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -33,7 +33,18 @@
 ### `$ ls ./skills`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,react,java,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="48" />
 </p>
 
 | Category | Stack |
