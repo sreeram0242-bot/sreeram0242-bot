@@ -18,7 +18,7 @@
 
 ---
 
-### `$ whoami`
+### `My Self`
 
 ```bash
 > Name        : Sreeram
@@ -30,7 +30,7 @@
 
 ---
 
-### `$ ls ./skills`
+### `My skills`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="48" />&nbsp;&nbsp;&nbsp;
@@ -49,8 +49,8 @@
 
 | Category | Stack |
 |---|---|
-| 🎨 Frontend | HTML, JavaScript, React |
-| ⚙️ Backend | Java, Python |
+| 🎨 Frontend | HTML, JavaScript, React , Express.js |
+| ⚙️ Backend | Java, Python ,Javascript |
 
 ---
 
