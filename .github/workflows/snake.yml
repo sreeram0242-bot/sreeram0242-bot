@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: sreeram0242-bot
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=ffffff,ffffff,ffffff&color_dots=000000,ffffff,ffffff,ffffff,ffffff
+            dist/github-contribution-grid-snake.svg?color_snake=%23ffffff&color_dots=%23000000,%23ffffff,%23ffffff,%23ffffff,%23ffffff
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
