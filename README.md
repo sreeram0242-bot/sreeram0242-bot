@@ -78,50 +78,50 @@
 <table>
 <tr>
 
-<td align="center" width="280">
+<td align="center" width="220">
 <b><a href="https://github.com/sreeram0242-bot/Gym-Software">🏋️ GymFlow</a></b><br>
 <sub>Gym Management Dashboard</sub><br><br>
-<img src=".github/gymflow.png" width="260" alt="GymFlow project" /><br><br>
+<img src=".github/gymflow.png" height="180" alt="GymFlow project" /><br><br>
 <b>Tech stack:</b><br>
 <sub>Next.js · TypeScript · Prisma · Tailwind CSS</sub>
 </td>
 
-<td align="center" width="280">
+<td align="center" width="220">
 <b><a href="https://github.com/sreeram0242-bot/royal-spice">🍽️ RK Mess</a></b><br>
 <sub>Restaurant Admin Panel</sub><br><br>
-<img src=".github/rk-mess.png" width="260" alt="RK Mess project" /><br><br>
+<img src=".github/rk-mess.png" height="180" alt="RK Mess project" /><br><br>
 <b>Tech stack:</b><br>
 <sub>Node.js · Express · JavaScript · HTML/CSS</sub>
 </td>
 
-<td align="center" width="280">
+<td align="center" width="220">
 <b><a href="https://github.com/sreeram0242-bot/offermonitor-IDE">🥪 Engineers Kitchen</a></b><br>
 <sub>Billing & Order App</sub><br><br>
-<img src=".github/engineers-kitchen.png" width="260" alt="Engineers Kitchen project" /><br><br>
+<img src=".github/engineers-kitchen.png" height="180" alt="Engineers Kitchen project" /><br><br>
 <b>Tech stack:</b><br>
 <sub>React · TypeScript · Vite · Capacitor · Electron</sub>
 </td>
 
-<td align="center" width="280">
+<td align="center" width="220">
 <b><a href="https://github.com/sreeram0242-bot/Royal-Carwash">🚗 Royal Car Wash</a></b><br>
 <sub>Service Booking Site</sub><br><br>
-<img src=".github/royal-carwash.png" width="260" alt="Royal Car Wash project" /><br><br>
+<img src=".github/royal-carwash.png" height="180" alt="Royal Car Wash project" /><br><br>
 <b>Tech stack:</b><br>
 <sub>Vite · JavaScript · Node.js · Vercel</sub>
 </td>
 
-<td align="center" width="280">
+<td align="center" width="220">
 <b>☕ Cafe Bistro</b><br>
 <sub>POS System</sub><br><br>
-<img src=".github/cafe-bistro.png" width="260" alt="Cafe Bistro project" /><br><br>
+<img src=".github/cafe-bistro.png" height="180" alt="Cafe Bistro project" /><br><br>
 <b>Tech stack:</b><br>
 <sub>React · Node.js · MongoDB</sub>
 </td>
 
-<td align="center" width="280">
+<td align="center" width="220">
 <b><a href="https://github.com/sreeram0242-bot/HappyEvents">🎉 Happy Events</a></b><br>
 <sub>Event Planning Website</sub><br><br>
-<img src=".github/happy-events.png" width="260" alt="Happy Events project" /><br><br>
+<img src=".github/happy-events.png" height="180" alt="Happy Events project" /><br><br>
 <b>Tech stack:</b><br>
 <sub>React · TypeScript · Vite · shadcn/ui</sub>
 </td>
