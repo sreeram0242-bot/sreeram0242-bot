@@ -9,14 +9,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
-`$ whoami`
-```bash
 > Name        : Sreeram
 > Role        : Developer
 > Status      : Compiling ideas into code...
-> Shell       : zsh
-> Fun fact    : I speak fluent HTML, Java, and sarcasm
 ```
 ---
 `$ ls ./skills`
@@ -40,7 +35,6 @@ Category	Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/sreeram0242-bot/sreeram0242-bot/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-> ⚠️ Note: the snake animation needs a one-time GitHub Action setup — instructions below.
 ---
 `$ echo $CONNECT`
 <p align="center">
