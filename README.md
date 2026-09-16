@@ -24,8 +24,7 @@
 > Name        : Sreeram
 > Role        : Developer
 > Status      : Compiling ideas into code...
-> Shell       : zsh
-> Fun fact    : I speak fluent HTML, Java, and sarcasm
+> fact        : Use Ai to Build stunning website and softwares
 ```
 
 ---
@@ -54,7 +53,7 @@
 
 ---
 
-### `$ cat github-stats.log`
+### `Github Activity`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sreeram0242-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=2d2d2d" />
@@ -144,5 +143,5 @@
 </p>
 
 <p align="center">
-  <sub>💻 built in a terminal, powered by caffeine ☕</sub>
+  <sub>💻 built in a Ai, can do any kind of software ☕</sub>
 </p>
