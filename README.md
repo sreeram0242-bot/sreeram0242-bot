@@ -48,7 +48,7 @@
 
 | Category | Stack |
 |---|---|
-| 🎨 Frontend | HTML, JavaScript, React , Express.js |
+| 🎨 Frontend | HTML, React , Express.js, Css, Vite |
 | ⚙️ Backend | Java, Python ,Javascript |
 
 ---
