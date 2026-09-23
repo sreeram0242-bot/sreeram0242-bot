@@ -24,7 +24,8 @@
 > Name        : Sreeram
 > Role        : Developer
 > Status      : Compiling ideas into code...
-> fact        : Use Ai to Build stunning website and softwares
+> Shell       : zsh
+> Fun fact    : I speak fluent HTML, Java, and sarcasm
 ```
 
 ---
@@ -48,12 +49,12 @@
 
 | Category | Stack |
 |---|---|
-| 🎨 Frontend | HTML, React , Express.js, Css, Vite |
+| 🎨 Frontend | HTML, JavaScript, React , Express.js |
 | ⚙️ Backend | Java, Python ,Javascript |
 
 ---
 
-### `Github Activity`
+### `$ cat github-stats.log`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sreeram0242-bot&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=2d2d2d" />
@@ -125,6 +126,22 @@
 <sub>React · TypeScript · Vite · shadcn/ui</sub>
 </td>
 
+<td align="center" width="220">
+<b><a href="https://github.com/sreeram0242-bot/Spotdown">🎧 SpotiZip</a></b><br>
+<sub>Spotify Playlist Downloader</sub><br><br>
+<img src=".github/spotizip.png" height="180" alt="SpotiZip project" /><br><br>
+<b>Tech stack:</b><br>
+<sub>Python · Flask · HTML · CSS · JavaScript</sub>
+</td>
+
+<td align="center" width="220">
+<b><a href="https://github.com/sreeram0242-bot/Whatsapp-CRM">💬 Aura Outreach</a></b><br>
+<sub>WhatsApp CRM & Campaign Tool</sub><br><br>
+<img src=".github/whatsapp-crm.png" height="180" alt="Aura Outreach project" /><br><br>
+<b>Tech stack:</b><br>
+<sub>Node.js · Express · JavaScript · WhatsApp Web API</sub>
+</td>
+
 </tr>
 </table>
 
@@ -143,5 +160,5 @@
 </p>
 
 <p align="center">
-  <sub>💻 built in a Ai, can do any kind of software ☕</sub>
+  <sub>💻 built in a terminal, powered by caffeine ☕</sub>
 </p>
