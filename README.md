@@ -160,5 +160,5 @@
 </p>
 
 <p align="center">
-  <sub>🧠 Code is silent;  my product speaks 🚀 .</sub>
+  <sub>🧠 Code is silent ;  my product speaks 🚀 .</sub>
 </p>
