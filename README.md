@@ -160,5 +160,5 @@
 </p>
 
 <p align="center">
-  <sub>💻 built in a terminal, powered by caffeine ☕</sub>
+  <sub>Code is silent; My product speaks</sub>
 </p>
