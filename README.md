@@ -25,7 +25,7 @@
 > Role        : Developer
 > Status      : Compiling ideas into code...
 > Shell       : zsh
-> Fun fact    : I speak fluent HTML, Java, and sarcasm
+"Not bounded by programming language, zero lines memorized ; When thought meets AI, Creation Begins"
 ```
 
 ---
